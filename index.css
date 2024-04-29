@@ -1,0 +1,45 @@
+/* page 1 */
+
+.fondpp{
+    background: #AC5767 ;
+    grid-column: 1/3;
+    grid-row: 1/2;
+}
+.imgpp{
+   width: 150px;
+   padding: 15px;
+}
+.navpp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.fondpp1{
+    background: #488CF5;
+    
+}
+.colornav{
+    background: #AC5767 ;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #fd0d99!important;
+}
+.espace{
+    grid-column: 1/3;
+    grid-row: 2/-1;
+    min-height: 100vh;
+}
+.grid{
+    min-height: 100vh;
+    display: grid; /*Active grid*/
+  grid-template-columns: repeat(12,1fr) ; 
+  grid-template-rows: 1fr 1fr 1fr 1fr; 
+  gap: 4px;
+}
+.moi{
+    grid-column: 3/6;
+    grid-row: 1/3;
+    width: 100%;
+}
