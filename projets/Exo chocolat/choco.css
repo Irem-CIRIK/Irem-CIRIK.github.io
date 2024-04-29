@@ -1,0 +1,165 @@
+a{
+    text-decoration: none;
+    color: #FFFFFF;  
+}
+.navigation{
+    background-color:#6F4328;
+    color:#FFFFFF;
+    padding-top: 30PX;
+    padding-bottom: 30PX;
+    display: flex;
+    justify-content:space-between;
+    padding-left: 30PX;
+    align-items: center;
+    margin-bottom: -25px;
+}
+
+.lien{
+    gap: 30PX;
+    display: flex;
+    padding-right: 30PX;
+}
+.page1{
+    background-color: #FEFCED;
+    padding-bottom: 40px;
+}
+.page1title{
+   background-color:#91694C; 
+}
+h1{
+    text-align: center;
+    color: #FFFFFF;
+}
+.acceuil1{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+.para1{
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 150px;
+    gap: 50px;
+}
+.pagetitle{
+    background-color:#91694C; 
+    margin-top: -25px;
+}
+
+.propos{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20PX;
+    
+}
+.btn{
+    border-radius: 0 4em 0 4em;
+    font-weight: 400;
+    text-transform: none;
+    padding: 10px 20px;
+    background-color:#91694C ;
+    box-shadow: none;
+    color: white;
+    text-decoration: none;
+}
+.popup1{
+    background-color: rgb(146 105 54 / 100%);
+    position: fixed;
+    top: 35PX;
+    left: 250PX;
+    right: 250PX;
+    bottom: 35PX;
+    border-radius: 10PX;
+    display: none;
+}
+.contact1{
+    display: flex;
+    justify-content: space-between;
+    ALIGN-ITEMS: center;
+    MARGIN: 25PX 20PX
+}
+.input11{
+    display: flex;
+    JUSTIFY-CONTENT: space-around;
+}
+.input1{
+    width: 400PX;
+    height: 25PX;
+    border-radius: 5PX;
+}
+.btnannuler{
+    DISPLAY: flex;
+    JUSTIFY-CONTENT: space-around;
+}
+.btnnone{
+    border-radius: 0 4em 0 4em;
+    font-weight: 400;
+    text-transform: none;
+    padding: 10px 20px;
+    background-color:#491e00  ;
+    box-shadow: none;
+    color: white;
+    text-decoration: none;
+}
+.btnenvoyer{
+    border-radius: 0 4em 0 4em;
+    font-weight: 400;
+    text-transform: none;
+    padding: 10px 20px;
+    background-color:#491e00 ;
+    box-shadow: none;
+    color: white;
+    text-decoration: none;
+}
+.popup1.open{
+    display: block;
+    
+}
+.popup-close{
+    cursor: pointer;
+}
+.popup2{
+    background-color: rgb(146 105 54 / 100%);
+    position: fixed;
+    top: 35PX;
+    left: 250PX;
+    right: 250PX;
+    bottom: 35PX;
+    border-radius: 10PX;
+    display: none; 
+}
+.popup2.open{
+    display: block;
+}
+.merci{
+    display: flex;
+    justify-content: space-around;
+    margin: 20PX 10PX;
+    align-items: center;
+}
+.merci1{
+   margin-left: 100PX ;
+}
+.popup2-close{
+    cursor: pointer;
+}
+.imgshop{
+    display: flex;
+    gap: 35PX;
+    margin-left: 60PX;
+}
+.imgnoir{
+    height: 33%;
+    width: 33%;
+}

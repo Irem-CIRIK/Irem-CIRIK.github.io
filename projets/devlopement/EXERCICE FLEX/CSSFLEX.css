@@ -1,0 +1,9 @@
+body{
+    background: yellow;
+}
+.introduction{
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    flex-direction: column;
+}

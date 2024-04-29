@@ -1,0 +1,115 @@
+.navigation{
+    display: flex;
+    justify-content: center;
+    background-color: #9AD034;
+}
+.para1{   
+    margin-top: 45PX;
+    MARGIN-LEFT: 35PX;
+    MARGIN-RIGHT: 35PX;
+    TEXT-ALIGN: CENTER;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+}
+.fond1{
+    background-color: #F2E3BC;
+}
+.auvergne{
+    display: none;
+}
+.corse{
+    display: none
+}
+.nouvelle{
+    display: none
+}
+.ile{
+    display: none
+}
+.bretagne{
+    display: none
+}
+.normandie{
+    display: none
+}
+.pays{
+    display: none
+}
+.provence{
+    display: none
+}
+.occitanie{
+    display: none
+}
+.hauts{
+    display: none
+}
+.grand{
+    display: none
+}
+.centre{
+    display: none
+}
+.bourgogne{
+    display: none
+}
+.auvergne.open {
+    display: block;
+}
+.centre.open {
+    display: block;
+}
+.bourgogne.open {
+    display: block;
+}
+.bretagne.open {
+    display: block;
+}
+.ile.open {
+    display: block;
+}
+.occitanie.open {
+    display: block;
+}
+.provence.open {
+    display: block;
+}
+.grand.open {
+    display: block;
+}
+.pays.open {
+    display: block;
+}
+.corse.open {
+    display: block;
+}
+.hauts.open {
+    display: block;
+}
+.normandie.open {
+    display: block;
+}
+.nouvelle.open {
+    display: block;
+}
+h1{
+  text-align: center;
+}
+.btn{
+    border-radius: 0 4em 0 4em;
+    font-weight: 400;
+    text-transform: none;
+    padding: 10px 20px;
+    background-color:#9AD034;
+    box-shadow: none;
+    color: white;
+    text-decoration: none;
+}
+.btnplace{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 110PX; 
+    padding-bottom: 110PX;
+}

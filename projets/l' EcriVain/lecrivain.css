@@ -1,0 +1,94 @@
+.fondnoir {
+    background-color:#000000;
+    padding: 25px;
+}
+.fondgris{
+    background-color: #696b6ba4;
+}
+.navigation{
+    display: flex;
+    gap: 45px;
+    align-items: center;
+    padding-bottom: 35PX;
+    padding-top: 35PX;
+}
+.title{
+    font-size: 50px;
+    text-transform: none;
+    text-align: center;
+    margin-bottom: 1rem;
+    width: 100%;
+    padding-top: 30PX
+}
+.para{
+    padding-top: 65PX;
+    text-align: center;
+    gap: 35PX;
+}
+.para.esp{
+    PADDING-BOTTOM: 50PX;
+}
+
+/* PAGE 2 */
+
+.display{
+    display: flex;
+}
+
+.row{
+    display: flex;
+    gap: 50PX;
+}
+.avis{
+    font-size: 55PX;
+    display: flex;
+    justify-content: space-around;
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    margin: 50PX 292PX 0 119PX;
+    align-items: center;
+}
+
+
+.btn{
+border-radius: 0 4em 0 4em;
+font-weight: 400;
+text-transform: none;
+padding: 10px 20px;
+background-color:#FFFFFF;
+box-shadow: none;
+text-decoration: none;
+color: #000000;
+display: unset;
+margin-left: 500PX;
+}
+.marg{
+    margin: auto;
+}
+.services{
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 35PX;
+}
+.btn1{
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+}
+.textblanc{
+    color: #FFFFFF;
+}
+.row2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20PX;
+}
+.lien{
+margin-left: 650PX;
+    GAP: 25PX;
+    DISPLAY: flex;
+    text-decoration:none;
+}

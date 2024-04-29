@@ -1,0 +1,25 @@
+.conteneur{
+    display: flex;
+    justify-content:space-around;
+    FLEX-DIRECTION:end;
+    flex-flow:warp;
+
+    font-size: 36px;
+    gap: 28px ;
+
+    /* SPACE BETWENN ESPACE GRAND 
+    AROUND UN PEU MOIN; */
+}
+
+.conteneur2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boite1{
+    background: yellow;
+    height: 200px;
+}
+.boite2{
+    background: red;
+}

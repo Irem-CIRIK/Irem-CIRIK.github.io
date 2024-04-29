@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+
+
+
+
+
+<head>
+
+
+  <div class="fond-bleu">
+     <titre>
+        <div class="text-blanc">
+            <strong>
+                   AgenceClermontoise.
+            </strong>
+        </div>
+     </titre>
+
+
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="CSS3.css">
+
+</head>
+
+
+
+
+
+
+
+<body>
+
+  
+
+
+
+  <div class="text-blanc">
+         <p>
+             <div align="right">
+                    Acceuil         A propos        Services
+             </div> 
+         </p>
+  </div>
+            
+  
+
+
+
+
+  
+ <div class="text-blanc">
+         <h1>
+             <strong>
+                  Trouvez la maison 
+                     <br>
+                         de votre rêve
+             </strong>
+         </h1>
+ </div>
+
+
+
+
+
+
+ 
+ <div class="text-gris">
+         <p>
+             A Clermont-Ferrand, Chammalières, Cournon d'Auvergne ou 
+                 <br> 
+                     encore Royat ...
+         </p> 
+ </div>
+
+
+
+
+
+
+  
+ 
+         <a 
+             href="a propos"> 
+                 a propos 
+         </a>
+              
+         
+         
+
+
+ <img 
+     src=image-principale.png 
+         alt=" maison blanche "
+             width=40%/>
+ </div>
+             
+
+
+
+ <div class="text-NOIR">
+     <h2>
+         <div align="right">
+             Faites confiance à 
+                 <br>
+                     nos agents
+         </div>
+     </h2>
+ </div>
+
+
+
+
+ <div class="text-gris">
+     <p>
+         <div align="right">
+             <br> 
+                 Lorem ipsum dolor sit consectetur adipiscing elit.
+             <br>
+                 Interdum arcu nec nulla enim. Ut pulvinar elit, ac ut consequat.
+             <br>
+                 Eu eget pellentesque urna tincidunt nunc lectus etiam morbi.
+             <br>
+                 Et faucibus duis quisque proin.
+             <br> 
+             <br> 
+             <br> 
+             <br> 
+                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+             <br>
+                 Tincidunt aliquet.
+         </div>
+    </p>
+ </div>
+
+
+
+         <br>
+         <br>
+         <br>
+         
+  
+         
+ <div class="text-gris">
+     <p>
+         <div align="right">
+              54
+                 <div class="text-orange">
+                      K
+                 </div> 
+         </div>
+     
+ </div>
+             
+ 
+ <div class="text-gris">
+     <div align="right">
+         Clients   
+     </div>      
+ </div>     
+
+
+ <div class="text-gris">
+     <div align="right">
+         4
+     </div>
+             <div class="text-orange">
+                 K
+         
+             </div>
+  
+             
+ <div class="text-gris">
+         Biens vendus
+ </div>
+     </p>
+ </div>
+
+
+
+        
+ <div align="right">
+     <a
+         href=" nos services">
+             Nos services
+     </a>
+ </div>
+
+
+
+
+ <img
+     src="image 2.png" 
+         alt="escalier" 
+             width="40%">
+
+
+    
+ <div class="text-blanc">
+     <h2> 
+         Une large sélections de biens ...
+     </h2>
+ </div>
+
+
+
+ <div class="text-blanc">
+     <p>
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt aliquet.
+             <br> 
+                 lorem ipsum dolor sit amet,
+     </p>
+ </div>
+
+
+
+
+     <img 
+         src="villa-clermont.png" 
+             alt="villa de Clermont-Ferrand "  
+                 width="20%">
+                
+     <img 
+         src="villa-chamalieres.png" 
+             alt="villa de chamalieres" 
+                 width="20%">
+
+            
+     <img 
+         src="villa-cournon.png" 
+             alt="villa de cournon " 
+                 width="20%">
+
+
+
+ <p>
+     <strong>
+         Villa à Clermont        Villa chamalieres          villa Cournon
+     </strong>
+ </p>
+
+
+
+ <a 
+     href="En savoir plus " >
+         En savoir plus
+ </a> 
+
+
+
+ <a
+     href="En savoir plus " >
+         En savoir plus
+ </a>
+
+
+
+ <a 
+     href="En savoir plus " >
+         En savoir plus
+ </a>
+
+
+
+ <div class="text-blanc">
+     <h2>
+         <Div align="right">
+             Nos clients nous 
+                 <br>
+                     recommandent
+         </Div>
+     </h2>
+ </div>
+
+
+
+
+
+ <p>
+     <div align="right">
+         "Lorem ipsum dolor sit amet, consectetur 
+             <br>
+                 cing elit. Lacus porta in tincidunt tellus 
+             <br>
+                 pulvinar hendrerit in iaculis."
+     </div>
+ </p>
+
+   
+
+
+ <h3>
+     <div align="right">
+         <strong>
+             Rafael Nadal
+         </strong>
+     </div>
+ </h3>
+
+
+
+ <p>
+     <div align="right">
+         Un client heureux
+     </div>
+ </p>
+
+
+
+ <img 
+     src="NADAL.png" 
+         alt="rafael-nadal"
+             width="30%">
+
+
+      
+ <h2> 
+     Inscrivez-vous à notre newsletter
+         <input>
+ </h2>
+
+
+    
+ <h3>
+     AgenceClermontoise.
+ </h3>
+
+
+
+ <p>
+     <strong>
+         Other page RGPD Contactez-nous
+     </strong>
+ </p>
+
+
+
+ <p>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+         <br>
+             Acceuil
+         <br> 
+             A propos
+         <br>
+             Services
+         <br> 
+             Contactez-nous
+         <br>
+         <br>
+         <br>
+             Mentions légales
+         <br>
+             Cookies
+         <br>
+         <br>
+         <br>
+             expert@agence-clermontoise.fr
+         <br>
+             +3340123458747
+         <br>
+             +3360123458747
+ </p> 
+    
+   
+
+</body>
+</html>
